@@ -1,0 +1,12 @@
+term,label
+short_hospital_stay,Short hospital stay
+respiratory_dysfunction,Respiratory dysfunction
+invasive_devices,Invasive devices
+surgery,Surgery
+tumor,Tumor
+age_ge_27,Age ≥27 years
+age_gt_27,Age >27 years
+male_sex,Male sex
+cardiovascular_disease,Cardiovascular disease
+candidemia,Candidemia
+urinary_source,Urinary source

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "MCA code for Figure 5 (Candida infections, Tolima 2014–2024)"
+authors:
+  - family-names: "Ramírez"
+    given-names: "Rafael"
+type: software
+license: MIT
