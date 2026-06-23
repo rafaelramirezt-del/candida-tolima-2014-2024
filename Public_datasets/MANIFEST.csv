@@ -1,0 +1,3 @@
+file_name,description,format,size_bytes,sha256
+data/BD_administrativeclinical_records_public.xlsx,De-identified clinical/administrative dataset (episode-level records),XLSX,162364,94dcbc74d7103b52c22edb35f2b60ab37db8a23d7f3e31d3c603ea69b908143d
+data/BD_microbiology_laboratory_records_public.xlsx,De-identified microbiology laboratory dataset (Candida isolate-level records),XLSX,59862,de7e404a1084a3fb9f44d5586e15046652fff518a18657ce8a766fb08ce2576e
