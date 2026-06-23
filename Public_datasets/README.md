@@ -1,6 +1,6 @@
 # Public de-identified datasets for the Candida Tolima 2014–2024 study
 
-This data package contains the public-use de-identified datasets supporting the manuscript:
+This folder contains the public-use de-identified datasets supporting the manuscript:
 
 **Clinical and microbiological epidemiology of *Candida* infections in a high-complexity hospital in Tolima, Colombia (2014–2024)**
 PLOS ONE manuscript: PONE-D-26-11229
@@ -23,8 +23,10 @@ PLOS ONE manuscript: PONE-D-26-11229
 | `data/BD_administrativeclinical_records_public.xlsx`  | Public-use de-identified administrative/clinical dataset with 987 records, used to summarize clinical records and reproduce clinical descriptive analyses and exploratory models.                                     | Clinical/administrative record |
 | `data/BD_microbiology_laboratory_records_public.xlsx` | Public-use de-identified microbiology laboratory dataset with 314 *Candida* spp. isolate records, used to summarize species distribution, specimen origin, and antifungal susceptibility availability/interpretation. | Microbiology isolate record    |
 | `MANIFEST.csv`                                        | File list with description, size, and SHA-256 checksum.                                                                                                                                                               | NA                             |
-| `LICENSE`                                             | MIT License for analysis scripts and associated reproducible materials. Public de-identified datasets are released under CC BY 4.0 as described in the data-use notes.                                                | NA                             |
 | `DATA_USE_NOTES.md`                                   | Data-use, de-identification, and privacy notes.                                                                                                                                                                       | NA                             |
+| `LICENSE`                                             | CC BY 4.0 license notice for the public-use de-identified datasets included in this folder.                                                                                                                           | NA                             |
+| `README.md`                                           | Main description of the public-use dataset package.                                                                                                                                                                   | NA                             |
+| `README.txt`                                          | Plain-text copy of the dataset package description, included for accessibility and archival purposes.                                                                                                                 | NA                             |
 
 ## De-identification and privacy
 
@@ -53,13 +55,14 @@ Each workbook includes:
 
 ## License
 
-Public-use de-identified datasets included in this package are released under a CC BY 4.0 license, unless otherwise stated.
+Public-use de-identified datasets included in `Public_datasets` are released under a Creative Commons Attribution 4.0 International License (CC BY 4.0), as indicated in the `LICENSE` file within this folder.
 
-Analysis scripts and associated reproducible materials are released under the MIT License, as indicated in the `LICENSE` file.
+Analysis scripts and associated reproducible materials located outside `Public_datasets` are released under the MIT License, as indicated in the root repository `LICENSE` file.
 
 Users must cite the associated manuscript and the archived Zenodo record when reusing these materials.
 
 ## Recommended citation
 
 Ramírez-Trujillo RA, Carvajal Hernández PK, González Marín Á. Public-use de-identified datasets and reproducible materials for: Clinical and microbiological epidemiology of *Candida* infections in a high-complexity hospital in Tolima, Colombia (2014–2024). Zenodo. https://doi.org/10.5281/zenodo.18765373
+
 
